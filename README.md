@@ -1,0 +1,1 @@
+# ucgenin_alanini_hesaplama
